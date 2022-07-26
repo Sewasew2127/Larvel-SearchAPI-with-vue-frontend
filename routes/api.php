@@ -19,5 +19,5 @@ Route::middleware('auth:sanctum')->get('/user', function (Request $request) {
     return $request->user();
 });
 
-Route::get('search/{keyword}','App\Http\Controllers\API\SearchController@search');
+Route::get('/search/{params?}','App\Http\Controllers\API\SearchController@search');
 
