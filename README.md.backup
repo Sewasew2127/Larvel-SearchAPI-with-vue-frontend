@@ -23,7 +23,7 @@
     <a href="https://github.com/sewasew2127/Larvel-SearchAPI-with-vue-frontend"><strong>Explore the docs »</strong></a>
     <br />
     <br />
-    <a href="https://github.com/sewasew2127/my-portfolio">View My Portfolio</a>
+    <a href="https://sewasew2127.github.io/My-Portfolio/">View My Portfolio</a>
        
    
   </p>
@@ -83,7 +83,7 @@ All search parameters are optional,
  
 The API should return JSON, with pure numeric data (not HTML content). 
 
-Use the `BLANK_README.md` to get started.
+
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 

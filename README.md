@@ -49,11 +49,7 @@
       </ul>
     </li>
     <li><a href="#usage">Usage</a></li>
-    <li><a href="#roadmap">Roadmap</a></li>
-    <li><a href="#contributing">Contributing</a></li>
-    <li><a href="#license">License</a></li>
-    <li><a href="#contact">Contact</a></li>
-    <li><a href="#acknowledgments">Acknowledgments</a></li>
+     <li><a href="#contact">Contact</a></li>
   </ol>
 </details>
 
@@ -83,7 +79,7 @@ All search parameters are optional,
  
 The API should return JSON, with pure numeric data (not HTML content). 
 
-Use the `BLANK_README.md` to get started.
+
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
@@ -98,7 +94,7 @@ The project is built with the following:-
 * [Bootstrap](https://getbootstrap.com)
 * [JQuery](https://jquery.com)
 
-<p align="right">(<a href="#top">back to top</a>)</p>
+
 
 
 
@@ -162,7 +158,7 @@ this is one example screen shot
 
 
 
-<p align="right">(<a href="#top">back to top</a>)</p>
+
 
 
 
